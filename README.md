@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning **C#, React**
 
 - Leetcode Profile: **https://leetcode.com/u/dhavale_s/**
-- ![image](https://github.com/user-attachments/assets/15379264-fbe1-4763-9abf-511e4c745bfe)
+![image](https://github.com/user-attachments/assets/88836212-91b9-459e-bfdd-b215e6c110b2)
+
 
 - 📫 How to reach me **dhavale.s@northeastern.edu**
 - 📫 Linkedin **https://www.linkedin.com/in/siddheshdhavale/**
