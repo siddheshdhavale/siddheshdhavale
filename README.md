@@ -6,7 +6,8 @@
 - 🌱 I’m currently learning **C#, React**
 
 - Leetcode Profile: **https://leetcode.com/u/dhavale_s/**
-![image](https://github.com/user-attachments/assets/662cabaf-ddb8-4857-ac80-27ccec5859ec)
+![image](https://github.com/user-attachments/assets/3a2c875f-bd5c-4f28-bcb5-c8c6d6136153)
+
 
 
 
