@@ -28,7 +28,7 @@
 
 
 
-- 📫 How to reach me **dhavale.s@northeastern.edu**
+- 📫 How to reach me **siddheshdhavale97@gmail.com**
 - 📫 Linkedin **https://www.linkedin.com/in/siddheshdhavale/**
 
 - ⚡ Fun fact **I think I have a really good sense of Humor**
