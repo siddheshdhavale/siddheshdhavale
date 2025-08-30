@@ -10,6 +10,9 @@
 ### About me
 - 🌱 Currently learning: **C#**, **React**
 - 💡 LeetCode: **https://leetcode.com/u/dhavale_s/**
+<img width="2314" height="828" alt="image" src="https://github.com/user-attachments/assets/7f1c81b6-8381-40d6-b593-a996d7674338" />
+
+  
 - 📫 Email: **siddheshdhavale97@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/siddheshdhavale/**
 - ⚡ Fun fact: I have a pretty good sense of humor.
