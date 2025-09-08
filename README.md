@@ -2,7 +2,8 @@
 <h3 align="center">Software Development Engineer · USA</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=siddheshdhavale&label=Profile%20views&color=0e75b6&style=flat" alt="Profile views" />
+  <img width="2340" height="844" alt="image" src="https://github.com/user-attachments/assets/51c7675b-9da7-403a-8289-1ac7769935a0" />
+
 </p>
 
 ---
