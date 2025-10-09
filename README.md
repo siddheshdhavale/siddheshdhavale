@@ -2,7 +2,8 @@
 <h3 align="center">Software Development Engineer · USA</h3>
 
 <p align="center">
-  <img width="2328" height="840" alt="image" src="https://github.com/user-attachments/assets/58cfab96-1dc1-4937-a519-313a13dfb338" />
+  <img width="2316" height="830" alt="image" src="https://github.com/user-attachments/assets/9df514c8-0f89-433c-ab95-489fb09204c9" />
+
 
 
 
