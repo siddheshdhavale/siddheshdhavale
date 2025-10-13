@@ -75,6 +75,8 @@
 ## 📊 GitHub Stats
 <p>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=siddheshdhavale&show_icons=true&layout=compact" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=siddheshdhavale&show_icons=true&cache_seconds=7200" />
+
 </p>
 <p>
   <img src="https://github-readme-stats.vercel.app/api?username=siddheshdhavale&show_icons=true" alt="GitHub Stats" />
