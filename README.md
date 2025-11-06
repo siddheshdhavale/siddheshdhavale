@@ -18,7 +18,7 @@
 - 💡 LeetCode: **https://leetcode.com/u/dhavale_s/**
 
   
-- 📫 Email: **siddheshdhavale97@gmail.com**
+- 📫 Email: **siddheshdhavaledev@gmail.com**
 - 💼 LinkedIn: **https://www.linkedin.com/in/siddheshdhavale/**
 - ⚡ Fun fact: I have a pretty good sense of humor.
 
